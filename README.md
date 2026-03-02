@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Devaananth357
-- 👀 I’m interested in Game Development and computer Architecture
-- 🌱 I’m currently learning Game development
-- 💞️ I’m looking to collaborate on app development and game development 
-- 📫 How to reach me on Insta:dev_aananth
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I just play video games all the time 
+Hi, I'm Devaananth
 
-<!---
-Devaananth357/Devaananth357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+B.Tech CSE | Aspiring ASIC / VLSI Engineer  
+Interested in Digital Design, RTL, and Computer Architecture  
+
+Currently Learning:
+- Verilog
+- CMOS fundamentals
+- ASIC Design Flow (OpenLane)
+
+Goal: To build industry-ready RTL and contribute to silicon-level projects.
